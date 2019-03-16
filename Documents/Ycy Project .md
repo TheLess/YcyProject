@@ -44,7 +44,7 @@
 |时间  | 变更内容 | 备注 | 
 |-|:-|-|
 |2019-03-15|起草整个项目和分工||
-|2019-03-16|初步完成剧本和人物设定||
+|2019-03-16|初步完成剧本和基础设定||
 ## 简介
 ---
 ### 游戏简介
@@ -92,12 +92,12 @@ Android/ios/Win10
 ### 人物
 [人物](https://github.com/TheLess/YcyProject/blob/master/Documents/人物.md)
 ### 物品
-
+[物品](https://github.com/TheLess/YcyProject/blob/master/Documents/%E7%89%A9%E5%93%81.md)
 ## 游戏内容
 ### 剧情
 [剧本大纲1.0](https://github.com/TheLess/YcyProject/blob/master/Documents/%E5%89%A7%E6%9C%AC%E5%A4%A7%E7%BA%B21.0.md)
 ### 数值系统
-
+[数值系统（未填入）](https://github.com/TheLess/YcyProject/blob/master/Documents/%E6%95%B0%E5%80%BC%E7%B3%BB%E7%BB%9F.xlsx)
 ## 规则逻辑
 ### 游戏玩法
 ### 数据管理
