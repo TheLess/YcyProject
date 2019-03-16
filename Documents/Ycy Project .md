@@ -72,7 +72,7 @@ Android/ios/Win10
     * fushao
 
 * 程序  
-    * 无证码农 修剡
+    * 无证码农 修剡 水落无痕
     
 * 策划
     * 剧情 dwl
@@ -90,11 +90,12 @@ Android/ios/Win10
 ## 基本设定
 ### 游戏流程
 ### 人物
-   
+   [人物](https://github.com/TheLess/YcyProject/blob/master/Documents/人物.md)
 ### 物品
 
 ## 游戏内容
 ### 剧情
+[剧本大纲1.0](https://github.com/TheLess/YcyProject/blob/master/Documents/%E5%89%A7%E6%9C%AC%E5%A4%A7%E7%BA%B21.0.md)
 ### 数值系统
 
 ## 规则逻辑
