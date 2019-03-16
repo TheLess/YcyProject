@@ -90,7 +90,7 @@ Android/ios/Win10
 ## 基本设定
 ### 游戏流程
 ### 人物
-   [人物](https://github.com/TheLess/YcyProject/blob/master/Documents/人物.md)
+[人物](https://github.com/TheLess/YcyProject/blob/master/Documents/人物.md)
 ### 物品
 
 ## 游戏内容
