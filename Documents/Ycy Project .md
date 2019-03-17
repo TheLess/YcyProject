@@ -89,7 +89,7 @@ Android/ios/Win10
     * 水落无痕
 ## 基本设定
 ### 游戏流程
-[游戏流程](https://github.com/TheLess/YcyProject/blob/master/Documents/%E6%B8%B8%E6%88%8F%E6%B5%81%E7%A8%8B%E5%9B%BE.jpg)
+[游戏流程](https://github.com/TheLess/YcyProject/blob/master/Documents/%E6%B8%B8%E6%88%8F%E6%B5%81%E7%A8%8B.jpg)
 ### 人物
 [人物](https://github.com/TheLess/YcyProject/blob/master/Documents/人物.md)
 ### 物品
@@ -105,6 +105,7 @@ Android/ios/Win10
 
 ## UI交互
 ### 界面原型
+[界面原型](https://github.com/TheLess/YcyProject/blob/master/Documents/%E7%95%8C%E9%9D%A2%E5%8E%9F%E5%9E%8B.jpg)
 ### 交互规则
 
 ## 美术资源
