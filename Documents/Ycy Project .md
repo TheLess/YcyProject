@@ -98,16 +98,17 @@ Android/ios/Win10
 ### 剧情
 [剧本大纲1.0](https://github.com/TheLess/YcyProject/blob/master/Documents/%E5%89%A7%E6%9C%AC%E5%A4%A7%E7%BA%B21.0.md)
 ### 数值系统
-[数值系统（未填入）](https://github.com/TheLess/YcyProject/blob/master/Documents/%E6%95%B0%E5%80%BC%E7%B3%BB%E7%BB%9F.xlsx)
+[数值系统](https://github.com/TheLess/YcyProject/blob/master/Documents/%E6%95%B0%E5%80%BC%E7%B3%BB%E7%BB%9F.xlsx)
 ## 规则逻辑
 ### 游戏玩法
+[]
 ### 数据管理
 
 ## UI交互
 ### 界面原型
 [界面原型](https://github.com/TheLess/YcyProject/blob/master/Documents/%E7%95%8C%E9%9D%A2%E5%8E%9F%E5%9E%8B.jpg)
 ### 交互规则
-
+参考界面原型图
 ## 美术资源
 ### 2D美术资源
 #### 人物
