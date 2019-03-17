@@ -45,6 +45,7 @@
 |-|:-|-|
 |2019-03-15|起草整个项目和分工||
 |2019-03-16|初步完成剧本和基础设定||
+|2019-03-17|游戏玩法和UI设计初步||
 ## 简介
 ---
 ### 游戏简介
@@ -75,8 +76,8 @@ Android/ios/Win10
     * 无证码农 修剡 水落无痕
     
 * 策划
-    * 剧情 dwl
-    * 基本设定 fushao
+    * 剧情 关卡 dwl
+    * UI设定 玩法 fushao
 
 * · 美术
 
@@ -101,7 +102,7 @@ Android/ios/Win10
 [数值系统](https://github.com/TheLess/YcyProject/blob/master/Documents/%E6%95%B0%E5%80%BC%E7%B3%BB%E7%BB%9F.xlsx)
 ## 规则逻辑
 ### 游戏玩法
-[]
+[游戏玩法](https://github.com/TheLess/YcyProject/blob/master/Documents/%E6%B8%B8%E6%88%8F%E7%8E%A9%E6%B3%95.md)
 ### 数据管理
 
 ## UI交互
